@@ -2,9 +2,9 @@
 
 ## About The Project :file_folder:
 
- > The project presents American questions where you face the computer, 
- > if you win the game you received a point and a victory message 
- > If you lost you did not receive a victory point and a message will appear that will tell you what the  correct answer is
+> It focuses on the work or the task itself
+> it is a perspective of those executing the project's activities and uses a rational approach.
+> You can change the position of the div, to any shape you want on the x, y, z axis.
 
 
 ## Install NPM packages :outbox_tray:
@@ -42,4 +42,4 @@
 
 
 
-![quez](https://user-images.githubusercontent.com/69055006/128378523-f59a474f-0b14-4fad-8bb7-2f7f82351d6c.png)
+![prespective](https://user-images.githubusercontent.com/69055006/128392729-58dab49c-c662-46ba-af53-d37a812e43e1.png)
